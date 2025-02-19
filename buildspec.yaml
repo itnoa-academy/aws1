@@ -4,5 +4,4 @@ phases:
   build:
     commands:
       - ls
-      - cal
       - echo "hello world"
