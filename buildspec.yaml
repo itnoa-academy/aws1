@@ -1,3 +1,6 @@
-ls
-cal
-echo "hellow world"
+phases:
+  build:
+    commands:
+      ls
+      cal
+      echo "hello world"
