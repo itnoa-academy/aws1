@@ -1,6 +1,6 @@
 phases:
   build:
     commands:
-      ls
-      cal
-      echo "hello world"
+     - ls
+     - cal
+     - echo "hello world"
